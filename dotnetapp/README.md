@@ -96,3 +96,5 @@ Before you start to code, please read the [.NET Core contribution guidelines](ht
 ### Documentation
 
 You can read documentation for .NET Core, including Docker usage in the [.NET Core docs](https://docs.microsoft.com/dotnet/articles/core/). The docs are [open source on GitHub](https://github.com/dotnet/core-docs). Contributions are welcome!
+
+Vien
